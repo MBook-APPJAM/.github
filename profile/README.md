@@ -76,7 +76,7 @@
       <a href="https://github.com/skmn3">
         <img src="https://avatars.githubusercontent.com/skmn3" width="100px;" alt="" /><br />
         <sub>
-          <b>박상진(팀장)</b><br />
+          <b>박상진</b><br />
           <b>기획 및 PM</b>
         </sub>
       </a>
