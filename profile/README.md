@@ -37,8 +37,8 @@
 <table>
   <tr>
     <td align="center">
-      <a href="#">
-        <img src="https://user-images.githubusercontent.com/81291090/208234083-45f21198-688c-4385-a35f-d8be03dd3ecb.jpg" width="100px;" height="81px;" alt="" /><br />
+      <a href="https://github.com/Mbook-APPJAM">
+        <img src="https://user-images.githubusercontent.com/81291090/208234083-45f21198-688c-4385-a35f-d8be03dd3ecb.jpg" width="100px;" height="100px;" alt="" /><br />
         <sub>
           <b>윤다현</b><br />
           <b>디자이너</b>
@@ -59,7 +59,7 @@
         <img src="https://avatars.githubusercontent.com/u/81502235" width="100px;" alt="" /><br />
         <sub>
           <b>김호영</b><br />
-          <b>프론트엔드</b>
+          <b>백엔드</b>
         </sub>
       </a>
     </td>
