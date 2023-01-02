@@ -97,9 +97,9 @@
 
 ### [BACKEND](https://github.com/Mbook-APPJAM/MBook_Server)
 
-- Java 11, Spring Boot, JPA, Spring security, jwt, Query
+- Java 11, Spring Boot, JPA, Spring security, JWT, Query
 - MySQL, Redis
-- AWS ec2, rds, s3
+- AWS EC2, RDS, S3
 - SMTP, STOMP
 
 <br/>
